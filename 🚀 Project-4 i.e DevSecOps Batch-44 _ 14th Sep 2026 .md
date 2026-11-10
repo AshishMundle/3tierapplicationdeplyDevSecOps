@@ -1,4 +1,4 @@
-# Project 4: Enterprise DevSecOps CI/CD Pipeline for 3-Tier Application Deployment
+# Enterprise DevSecOps CI/CD Pipeline for 3-Tier Application Deployment
 
 [![Module: DevSecOps CI/CD](https://img.shields.io/badge/Module-DevSecOps%20CI%2FCD-D33833?style=for-the-badge&logo=jenkins&logoColor=white)](README.md)
 [![Cloud: AWS EC2](https://img.shields.io/badge/Cloud-AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](README.md)
